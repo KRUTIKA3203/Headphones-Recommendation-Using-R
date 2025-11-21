@@ -47,13 +47,13 @@ Some patterns discovered:
 
 | Chart | Image |
 |------|-------|
-| Average Selling Price by Type | ![Average Selling Price](/Average Selling Price by Headphone Type.jpg) |
-| Price vs Rating (Clustered) | ![Cluster](/Clusters — Price vs Rating by Segment.jpg) |
-| Correlation Heatmap | ![](/Correlation Heatmap.jpg) |
-| Actual vs Predicted (Random Forest) | ![Random](Actual vs Predicted — Random Forest (Regression).jpg) |
-| Feature Importance | ![](/Top 15 Important Features — Random Forest.jpg) |
-| Top Companies by Average Price | ![](/Top Companies by Average Price.jpg) |
-| Price Distribution by Segment | ![](/Price Distribution by Segment.jpg) |
+| Average Selling Price by Type | ![Average-Selling-Price](/Average-Selling-Price-by-Headphone-Type.jpg) |
+| Price vs Rating (Clustered) | ![Cluster](/Clusters—Price-vs-Rating-by-Segment.jpg) |
+| Correlation Heatmap | ![Correlation-Heatmap](/Correlation-Heatmap.jpg) |
+| Actual vs Predicted (Random-Forest) | ![Random-Forest](Actual-vs-Predicted—Random-Forest-(Regression).jpg) |
+| Feature Importance | ![15-Important-Features](/Top-15-Important-Features—Random-Forest.jpg) |
+| Top Companies by Average Price | ![Top-Companies](/Top-Companies-by-Average-Price.jpg) |
+| Price Distribution by Segment | ![Price-Distribution-by-Segment](/Price-Distribution-by-Segment.jpg) |
 
 ---
 
