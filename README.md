@@ -120,5 +120,4 @@ This ensures the user gets **budget-friendly + similar feature** recommendations
 - **Krutika Chaudhari** (1132231002)  
 - **Shravani Wani** (1132230868)  
 MIT World Peace University, Pune
-## 📂 Project Structure
 
