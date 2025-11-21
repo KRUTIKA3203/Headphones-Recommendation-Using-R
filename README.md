@@ -47,7 +47,7 @@ Some patterns discovered:
 
 | Chart | Image |
 |------|-------|
-| Average Selling Price by Type | ![Average](/Average Selling Price by Headphone Type.jpg) |
+| Average Selling Price by Type | ![Average Selling Price](/Average Selling Price by Headphone Type.jpg) |
 | Price vs Rating (Clustered) | ![Cluster](/Clusters — Price vs Rating by Segment.jpg) |
 | Correlation Heatmap | ![](/Correlation Heatmap.jpg) |
 | Actual vs Predicted (Random Forest) | ![Random](Actual vs Predicted — Random Forest (Regression).jpg) |
